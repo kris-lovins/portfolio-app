@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//kris-lovins.github.io/portfolio-app/static/css/main.a617e044.chunk.css",
+    "main.js": "//kris-lovins.github.io/portfolio-app/static/js/main.92aa95b9.chunk.js",
+    "main.js.map": "//kris-lovins.github.io/portfolio-app/static/js/main.92aa95b9.chunk.js.map",
+    "runtime-main.js": "//kris-lovins.github.io/portfolio-app/static/js/runtime-main.b1aedb81.js",
+    "runtime-main.js.map": "//kris-lovins.github.io/portfolio-app/static/js/runtime-main.b1aedb81.js.map",
+    "static/js/2.205eff30.chunk.js": "//kris-lovins.github.io/portfolio-app/static/js/2.205eff30.chunk.js",
+    "static/js/2.205eff30.chunk.js.map": "//kris-lovins.github.io/portfolio-app/static/js/2.205eff30.chunk.js.map",
+    "static/js/3.f3c60e6f.chunk.js": "//kris-lovins.github.io/portfolio-app/static/js/3.f3c60e6f.chunk.js",
+    "static/js/3.f3c60e6f.chunk.js.map": "//kris-lovins.github.io/portfolio-app/static/js/3.f3c60e6f.chunk.js.map",
+    "index.html": "//kris-lovins.github.io/portfolio-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "//kris-lovins.github.io/portfolio-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.205eff30.chunk.js.LICENSE.txt": "//kris-lovins.github.io/portfolio-app/static/js/2.205eff30.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "//kris-lovins.github.io/portfolio-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1aedb81.js",
+    "static/js/2.205eff30.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.92aa95b9.chunk.js"
+  ]
+}
